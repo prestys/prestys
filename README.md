@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jay</h1>
-<h3 align="center">A software developer from the UK</h3>
+<h1>Hi 👋, I'm Jay</h1>
+<h3>A Current Apprentice Software Developer from the UK!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prestys&label=Profile%20views&color=0e75b6&style=flat" alt="prestys" /> </p>
 
