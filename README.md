@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Jay</h1>
 <h3>A Current Apprentice Software Developer from the UK!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prestys&label=Profile%20views&color=0e75b6&style=flat" alt="prestys" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prestys&label=Profile%20views&color=0e75b6&style=flat" alt="prestys" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prestys" alt="prestys" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
